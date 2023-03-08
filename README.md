@@ -2,6 +2,7 @@
 <h3 align="center">An Artificial Intelligence and Machine Learning enthusiast.</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/80333086/223655256-effaa1ab-0f7d-4389-93b5-ca37975689c1.png">
+
 - 👯 I’m looking to collaborate on **Computer Vision and CNN projects**
 
 - Currently working to be an expert in TENSORFLOW.
