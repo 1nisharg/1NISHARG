@@ -7,7 +7,7 @@
 
 - Currently working to be an expert in TENSORFLOW.
 
-- 💬 Ask me about **Artificial Intelligence, Machine Learning, Programming languages like python, C++**
+- 💬 Ask me about **Artificial Intelligence, Machine Learning, Programming languages like python, DSA in C language**
 
 - 📫 How to reach me **nisarg.nargund@gmail.com**
 
