@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **I love listening music, watching movies, reading books.**
 
+- Visit my website for more information:- 1nisharg.netlify.app
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nisharg-nargund-6bb385255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nisharg nargund" height="30" width="40" /></a>
