@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Computer Vision and CNN projects**
 
-- Currently working to be an expert in TENSORFLOW.
+- Currently working to be an expert in GenerativeAI and Concepts of Large Language Models.
 
 - 💬 Ask me about **Artificial Intelligence, Machine Learning, Programming languages like python, DSA in C language**
 
