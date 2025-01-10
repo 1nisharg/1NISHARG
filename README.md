@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/80333086/223655256-effaa1ab-0f7d-4389-93b5-ca37975689c1.png">
 
-- 👯 I’m looking to collaborate on **Computer Vision and CNN projects**
+- 👯 I’m looking to collaborate on **GenerativeAi and Large Language Models**
 
 - Currently working to be an expert in GenerativeAI and Concepts of Large Language Models.
 
